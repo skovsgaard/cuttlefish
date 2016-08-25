@@ -1,3 +1,8 @@
+# Disclaimer right up top
+This is a forked version of Basho's Cuttlefish with literally one change:
+Allow Erlang 19 to use it. This change is not expected to be permanent as
+Basho will eventually support 19.0 (I hope).
+
 # Cuttlefish
 
 Cuttlefish is a library for Erlang applications that wish to walk the
